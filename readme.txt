@@ -1,19 +1,20 @@
 === Twittada ===
-Contribuições: @leobaiano, @rodrigofante
-Link para doações: http://leobaiano.com/donate
+Contributors: @leobaiano, @rodrigofante
+Donate link: http://leobaiano.com/donate
 Tags: twitter, microblogginng, widget twitter
-Menor versão requerida: 2.5
-Testada até a versão: 2.7
+Requires at least: 2.5
+Tested up to: 2.7
+Stable tag: twittada
 
 O plugin twiitada serve para exibir seus posts do twitter no seu blog.
 
-== DESCRIÇÃO ==
+== Description ==
 
 O twittada é um plugin que serve para exibir, no seu blog, um widget que mostra os últimos posts que você fez no twitter. O Twittada possui um painel de administração onde você pode modificar o tamanho, as cores do texto e linhas, pode também definir a quantas mensagens deve aparecer de forma a adaptar o widget ao design do seu blog.
 
 A equipe de desenvolvimento do plugin Twittada não se responsabiliza por nenhum problema ocasionado pela instalação do mesmo e, apesar de ajudar a resolver problemas com instalação, não tem obrigação de prestar suporte.
 
-== INSTALAÇÃO ==
+== INSTALLATION ==
 
 Para instalar o plugin Twittada você deve seguir os passos básicos de intalação, ativação, de plugins WordPress que, basicamente, consiste no upload do plugin para a pasta wp-content/plugins do seu blog e na ativação do mesmo através do menu Plugins do painel administrativo do seu blog.
 
@@ -49,17 +50,21 @@ Existem duas formas para instalar e configurar o plugin, incluindo o código dire
 	
 		A - Inclua o código <?php twittada(); ?> no local onde as mensagens devem aparecer;
 
-== QUESTÕES FREQUENTES ==
+== FREQUENTLY ASKED QUESTIONS ==
 
 = Instalei o twittada mas as mensagens que estão aparecendo no blog não são do meu twitter? =
 
 Você precisa acessar o Menu Configurações >> Twittada para definir o usuário.
 
-== CRÉDITOS ==
+== SCREENSHOTS ==
+
+1 - Twittada/screenshot.jpg
+
+== CREDIT ==
 
 Este plugin doi desenvolvido por Leo Baiano (http://www.leobaiano.com), agradecimentos a Rodrigo Fante (http://www.rodrigofante.com).
 
-== CONTATO ==
+== CONTACT ==
 
 Leo Baiano
 http://www.leobaiano.com/contato
