@@ -1,0 +1,71 @@
+=== Twittada ===
+Contributors: @leobaiano, @rodrigofante
+Donate link: http://leobaiano.com/donate
+Tags: twitter, microblogginng, widget twitter
+Requires at least: 2.5
+Tested up to: 2.7
+Stable tag: twittada
+
+Display your posts in your blog on Twitter
+
+== Description ==
+
+The Twittada plugin is used to display in your blog, a widget that displays the latest posts you've made in Twitter. The Twitter has a panel of government where you can modify the size, colors and lines of text, you can also define how many messages will appear in order to adapt the design of the widget to your blog.
+
+The team's development Twitter plugin is not responsible for any problems caused by the installation of the same, and despite help resolve problems with installation, has no obligation to provide support.
+
+== INSTALLATION ==
+
+To install the plugin Twittada you should follow the basic steps of intalação / activation of WordPress plugins that, basically, is to upload the plugin to wp-content/plugins folder of your blog and the activation of the same through the Plugins menu of the administrative panel of your blog.
+
+Here is a step by step installation and configuration of the plugin Twittada:
+
+1 -  FTP access to your blog and upload it to the folder Twitter wp-content/plugins directory of your blog;
+
+	1.1 - Inside the folder there should be Twitter 5 files: a) twittada.php b) logo_twitter.png c) readme.txt d) readme-txt and e) screenshot.jpg;
+
+2 - Access the administrative panel of your blog and go to the Plugins menu;
+
+3 - Look for the plugin Twitter in the list and activate the plugin;
+
+After installation you must configure the plugin to start displaying it correctly on your blog.
+
+The configuration of the plugin is the choice of where the messages will appear on your blog and tell the system in the name of the Twitter user whose messages you want to display on the blog and modify the width, color of the source and the edge to better match the design of your blog.
+
+There are two ways to install and configure the plugin, including the code directly into the template of your blog or through the menu of WordPress widgets.
+
+1 - After activating the plugin to access the Settings menu>> Twitter;
+
+2 - Fill out the form with the requested data and save the options;
+
+3 - To include the topic you can proceed in two different ways:
+	
+	3.1 - MENU WIDGETS
+		
+		A - Access the menu Design / Widigets;
+		B - Find the Twitter widget and add the sidebar that you want;
+		C - Save the changes.
+
+	3.2 - DIRECT THE TEMPLATE
+	
+		A - Include the code <?php twittada ();?> Where the messages should appear;
+
+== FREQUENTLY ASKED QUESTIONS ==
+
+= Twittada installed but the messages that are appearing on the blog are not of my Twitter? =
+
+You need to access the Settings menu>> to set the Twittada user.
+
+== SCREENSHOTS ==
+
+1 - Twittada/screenshot.jpg
+
+== CREDIT ==
+
+This plugin developed by Leo doi Baiano (http://www.leobaiano.com), thanks to Rodrigo Fante (http://www.rodrigofante.com).
+
+== CONTACT ==
+
+Leo Baiano
+http://www.leobaiano.com/contato
+E-mail: leobaiano@leobaiano.com
